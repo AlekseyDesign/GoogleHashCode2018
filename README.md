@@ -5,6 +5,7 @@ This repository contains submissions of team JoLi for Online Qualification Round
 You can find more information about the contest at https://hashcode.withgoogle.com/.
 
 The Task: Self-Driving Cars
+https://github.com/AlekseyDesign/GoogleHashCode2018/blob/master/online_qualification_round_2018.pdf
 
 Team: JoLi
 
